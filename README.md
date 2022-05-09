@@ -29,7 +29,7 @@ Let's do that 🔥
 
 <h3 align="center">💻 Connect Me 💻</h3>
 <p align="center">
-<!-- <a href=https://www.instagram.com/wony_jeon" target="_blank"><img src="https://www.instagram.com/wony_jeon-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp -->
+<a href=https://www.instagram.com/wony_jeon" target="_blank"><img src="https://img.shields.io/badge/jjw2596-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
 <a href="mailto:jjw2596@naver.com" target="_blank"><img src="https://img.shields.io/badge/jjw2596@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p><br />
 
